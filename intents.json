@@ -1,0 +1,1 @@
+{"intents": [{"tag": "greeting", "patterns": ["Hi", "Hello", "Hey"], "responses": ["Hello!", "Hi there!"]}, {"tag": "help", "patterns": ["What can you do?", "Help me", "How to use this?"], "responses": ["I am a hybrid bot. I can answer via ML or rules."]}, {"tag": "goodbye", "patterns": ["Bye", "See you later", "Goodbye"], "responses": ["Goodbye!", "Have a nice day!"]}]}
